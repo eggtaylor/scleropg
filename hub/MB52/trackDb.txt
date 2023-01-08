@@ -1,0 +1,179 @@
+track hubCentral
+compositeTrack on
+shortLabel sclero
+longLabel sclero pangenome
+group comphub
+subGroup1 view Track_Type Snake=Alignments  
+subGroup2 orgs Organisms Anc0=Anc0 SK35=SK35 CU8_30=CU8_30 CU8_24=CU8_24 CU10_12=CU10_12 MB52=MB52 CU11_7=CU11_7 _MINIGRAPH_=_MINIGRAPH_ AB29=AB29 CU10_20=CU10_20 n321=n321 CU6_1=CU6_1 CU10_17=CU10_17 CU11_19=CU11_19
+dragAndDrop subTracks
+#allButtonPair on
+dimensions dimensionX=view dimensionY=orgs
+noInherit on
+priority 0
+centerLabelsDense on
+visibility full
+html ../documentation/hubCentral
+type bigBed 3
+
+	track hubCentralAlignments
+	shortLabel Alignments
+	view Alignments
+	visibility full
+	subTrack hubCentral
+
+		track snakeAnc0
+		longLabel Anc0
+		shortLabel Anc0
+		otherSpecies Anc0
+		visibility full
+		parent hubCentralAlignments
+		priority 2
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=Anc0
+
+		track snakeSK35
+		longLabel SK35
+		shortLabel SK35
+		otherSpecies SK35
+		visibility full
+		parent hubCentralAlignments
+		priority 3
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=SK35
+
+		track snakeCU8_30
+		longLabel CU8_30
+		shortLabel CU8_30
+		otherSpecies CU8_30
+		visibility full
+		parent hubCentralAlignments
+		priority 4
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU8_30
+
+		track snakeCU8_24
+		longLabel CU8_24
+		shortLabel CU8_24
+		otherSpecies CU8_24
+		visibility hide
+		parent hubCentralAlignments off
+		priority 5
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU8_24
+
+		track snakeCU10_12
+		longLabel CU10_12
+		shortLabel CU10_12
+		otherSpecies CU10_12
+		visibility hide
+		parent hubCentralAlignments off
+		priority 6
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU10_12
+
+		track snakeCU11_7
+		longLabel CU11_7
+		shortLabel CU11_7
+		otherSpecies CU11_7
+		visibility hide
+		parent hubCentralAlignments off
+		priority 8
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU11_7
+
+		track snake_MINIGRAPH_
+		longLabel _MINIGRAPH_
+		shortLabel _MINIGRAPH_
+		otherSpecies _MINIGRAPH_
+		visibility hide
+		parent hubCentralAlignments off
+		priority 9
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=_MINIGRAPH_
+
+		track snakeAB29
+		longLabel AB29
+		shortLabel AB29
+		otherSpecies AB29
+		visibility hide
+		parent hubCentralAlignments off
+		priority 10
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=AB29
+
+		track snakeCU10_20
+		longLabel CU10_20
+		shortLabel CU10_20
+		otherSpecies CU10_20
+		visibility hide
+		parent hubCentralAlignments off
+		priority 11
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU10_20
+
+		track snaken321
+		longLabel n321
+		shortLabel n321
+		otherSpecies n321
+		visibility hide
+		parent hubCentralAlignments off
+		priority 12
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=n321
+
+		track snakeCU6_1
+		longLabel CU6_1
+		shortLabel CU6_1
+		otherSpecies CU6_1
+		visibility hide
+		parent hubCentralAlignments off
+		priority 13
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU6_1
+
+		track snakeCU10_17
+		longLabel CU10_17
+		shortLabel CU10_17
+		otherSpecies CU10_17
+		visibility hide
+		parent hubCentralAlignments off
+		priority 14
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU10_17
+
+		track snakeCU11_19
+		longLabel CU11_19
+		shortLabel CU11_19
+		otherSpecies CU11_19
+		visibility hide
+		parent hubCentralAlignments off
+		priority 15
+		bigDataUrl ../sclero-pg.full.hal
+		type halSnake
+		group snake
+		subGroups view=Snake orgs=CU11_19
+

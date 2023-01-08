@@ -1,0 +1,154 @@
+genome AB29
+twoBitPath AB29/AB29.2bit
+trackDb AB29/trackDb.txt
+groups groups.txt
+htmlPath AB29/description.html
+description AB29
+organism AB29
+orderKey 4800
+scientificName AB29
+defaultPos Chr1:1-1000
+
+genome Anc0
+twoBitPath Anc0/Anc0.2bit
+trackDb Anc0/trackDb.txt
+groups groups.txt
+htmlPath Anc0/description.html
+description Anc0
+organism Anc0
+orderKey 4800
+scientificName Anc0
+defaultPos Anc0refChr998_0:1-1000
+
+genome CU10_12
+twoBitPath CU10_12/CU10_12.2bit
+trackDb CU10_12/trackDb.txt
+groups groups.txt
+htmlPath CU10_12/description.html
+description CU10_12
+organism CU10_12
+orderKey 4800
+scientificName CU10_12
+defaultPos Chr1:1-1000
+
+genome CU10_17
+twoBitPath CU10_17/CU10_17.2bit
+trackDb CU10_17/trackDb.txt
+groups groups.txt
+htmlPath CU10_17/description.html
+description CU10_17
+organism CU10_17
+orderKey 4800
+scientificName CU10_17
+defaultPos Chr2:1-1000
+
+genome CU10_20
+twoBitPath CU10_20/CU10_20.2bit
+trackDb CU10_20/trackDb.txt
+groups groups.txt
+htmlPath CU10_20/description.html
+description CU10_20
+organism CU10_20
+orderKey 4800
+scientificName CU10_20
+defaultPos Chr1:1-1000
+
+genome CU11_19
+twoBitPath CU11_19/CU11_19.2bit
+trackDb CU11_19/trackDb.txt
+groups groups.txt
+htmlPath CU11_19/description.html
+description CU11_19
+organism CU11_19
+orderKey 4800
+scientificName CU11_19
+defaultPos Chr1:1-1000
+
+genome CU11_7
+twoBitPath CU11_7/CU11_7.2bit
+trackDb CU11_7/trackDb.txt
+groups groups.txt
+htmlPath CU11_7/description.html
+description CU11_7
+organism CU11_7
+orderKey 4800
+scientificName CU11_7
+defaultPos Chr2:1-1000
+
+genome CU6_1
+twoBitPath CU6_1/CU6_1.2bit
+trackDb CU6_1/trackDb.txt
+groups groups.txt
+htmlPath CU6_1/description.html
+description CU6_1
+organism CU6_1
+orderKey 4800
+scientificName CU6_1
+defaultPos Chr1:1-1000
+
+genome CU8_24
+twoBitPath CU8_24/CU8_24.2bit
+trackDb CU8_24/trackDb.txt
+groups groups.txt
+htmlPath CU8_24/description.html
+description CU8_24
+organism CU8_24
+orderKey 4800
+scientificName CU8_24
+defaultPos Chr1:1-1000
+
+genome CU8_30
+twoBitPath CU8_30/CU8_30.2bit
+trackDb CU8_30/trackDb.txt
+groups groups.txt
+htmlPath CU8_30/description.html
+description CU8_30
+organism CU8_30
+orderKey 4800
+scientificName CU8_30
+defaultPos Chr1:1-1000
+
+genome MB52
+twoBitPath MB52/MB52.2bit
+trackDb MB52/trackDb.txt
+groups groups.txt
+htmlPath MB52/description.html
+description MB52
+organism MB52
+orderKey 4800
+scientificName MB52
+defaultPos Chr1:1-1000
+
+genome SK35
+twoBitPath SK35/SK35.2bit
+trackDb SK35/trackDb.txt
+groups groups.txt
+htmlPath SK35/description.html
+description SK35
+organism SK35
+orderKey 4800
+scientificName SK35
+defaultPos Chr1:1-1000
+
+genome _MINIGRAPH_
+twoBitPath _MINIGRAPH_/_MINIGRAPH_.2bit
+trackDb _MINIGRAPH_/trackDb.txt
+groups groups.txt
+htmlPath _MINIGRAPH_/description.html
+description _MINIGRAPH_
+organism _MINIGRAPH_
+orderKey 4800
+scientificName _MINIGRAPH_
+defaultPos s13359:1-1000
+
+genome n321
+twoBitPath n321/n321.2bit
+trackDb n321/trackDb.txt
+groups groups.txt
+htmlPath n321/description.html
+description n321
+organism n321
+orderKey 4800
+scientificName n321
+defaultPos Chr1:1-1000
+
