@@ -28,7 +28,7 @@ type bigBed 3
 		visibility full
 		parent hubCentralAlignments
 		priority 2
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=Anc0
@@ -40,7 +40,7 @@ type bigBed 3
 		visibility full
 		parent hubCentralAlignments
 		priority 3
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=SK35
@@ -52,7 +52,7 @@ type bigBed 3
 		visibility full
 		parent hubCentralAlignments
 		priority 4
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=CU8_30
@@ -64,7 +64,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 5
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=CU8_24
@@ -76,7 +76,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 6
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=CU10_12
@@ -88,7 +88,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 7
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=MB52
@@ -100,7 +100,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 8
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=CU11_7
@@ -112,7 +112,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 9
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=_MINIGRAPH_
@@ -124,7 +124,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 10
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=AB29
@@ -136,7 +136,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 11
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=CU10_20
@@ -148,7 +148,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 12
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=n321
@@ -160,7 +160,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 14
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=CU10_17
@@ -172,7 +172,7 @@ type bigBed 3
 		visibility hide
 		parent hubCentralAlignments off
 		priority 15
-		bigDataUrl ../sclero-pg.full.hal
+		bigDataUrl https://media.githubusercontent.com/media/eggtaylor/scleropg/main/hub/sclero-pg.full.hal
 		type halSnake
 		group snake
 		subGroups view=Snake orgs=CU11_19
